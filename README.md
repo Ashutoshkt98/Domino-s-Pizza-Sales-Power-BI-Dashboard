@@ -16,6 +16,7 @@ Impact
 By leveraging the Domino's Pizza Sales Dashboard, stakeholders across the organization, including executives, marketing teams, and regional managers, can make data-driven decisions to optimize sales performance, improve customer satisfaction, and drive business growth. The dashboard serves as a valuable tool for monitoring key performance indicators, identifying trends, and formulating strategies to stay competitive in the dynamic pizza market.
 
 
+
 ![Pizza Sales Dashboard](https://github.com/Ashutoshkt98/Power-BI-Project/assets/168357276/1c929430-521d-4883-829a-ff45821c3e6c)
 
 ![Pizza Sales Tactical Dashboard](https://github.com/Ashutoshkt98/Power-BI-Project/assets/168357276/08991fc6-7d85-437d-9da2-33df53c6722d)
